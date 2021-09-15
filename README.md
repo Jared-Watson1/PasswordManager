@@ -1,2 +1,2 @@
-# PasswordManager
-A password manager GUI which can save websites, emails, and passwords to a .txt file for future use.   The application can also randomly generate passwords.
+# password_manager
+This is a password manager GUI application using the tkinter module in python.  It also has a random password generating feature and all data is stored locally.
